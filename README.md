@@ -17,11 +17,12 @@
 * Geniki Taxydromiki\
   https://www.taxydromiki.com/track/XXXXXXXXXX \
   https://www.taxydromiki.com/en/track/XXXXXXXXXX
+  
+* Easy Mail\
+  https://www.easymail.gr/web-tracking?XXXXXXXXXXX \
+  https://www.easymail.gr/en/web-tracking-en?XXXXXXXXXXX
 
 * Courier Center\
-  https://www.courier.gr/track/result?tracknr=XXXXXXXXXXXX
-
-* Easy Mail\
   https://www.courier.gr/track/result?___store=el&tracknr=XXXXXXXXXXXX \
   https://www.courier.gr/track/result?___store=en&tracknr=XXXXXXXXXXXX
 

@@ -8,8 +8,8 @@
   https://www.acscourier.net/en/myacs/my-shipments-reports/track-and-trace/?generalCode=XXXXXXXXXX
 
 * ELTA\
-  https://www.elta.gr/el-gr/εντοπισμόςαντικειμένου.aspx?qc=XXXXXXXXXXXXX \
-  https://www.elta.gr/en-us/personal/tracktrace.aspx?qc=XXXXXXXXXXXXX
+  https://elta.gr/track?code=XXXXXXXXXXX \
+  https://elta.gr/en/track?code=XXXXXXXXXXX
 
 * ELTA Courier\
   https://www.elta-courier.gr/search?br=XXXXXXXXXXXXX
@@ -26,5 +26,5 @@
   https://www.easymail.gr/en/web-tracking-en?XXXXXXXXXXX
 
 * BOX NOW\
-  https://t.boxnow.gr/?track=XXXXXXXXXXX
+  https://t.boxnow.gr/?track=XXXXXXXXXXX \
   https://t.boxnow.gr/en?track=XXXXXXXXXXX

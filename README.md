@@ -24,3 +24,7 @@
 * Easy Mail\
   https://www.easymail.gr/web-tracking?XXXXXXXXXXX \
   https://www.easymail.gr/en/web-tracking-en?XXXXXXXXXXX
+
+* BOX NOW\
+  https://t.boxnow.gr/?track=XXXXXXXXXXX
+  https://t.boxnow.gr/en?track=XXXXXXXXXXX

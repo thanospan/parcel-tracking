@@ -1,7 +1,8 @@
 # Tracking
 
 * Speedex\
-  http://www.speedex.gr/isapohi.asp?voucher_code=XXXXXXXXXXXX
+  http://www.speedex.gr/isapohi.asp?voucher_code=XXXXXXXXXXXX \
+  http://www.speedex.gr/isapohi.asp?voucher_code=XXXXXXXXXXXX&lang=eng
 
 * ACS\
   https://www.acscourier.net/el/web/greece/track-and-trace?generalCode=XXXXXXXXXX \

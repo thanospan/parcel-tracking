@@ -30,3 +30,6 @@
 * BOX NOW\
   https://t.boxnow.gr/?track=XXXXXXXXXXX \
   https://t.boxnow.gr/en?track=XXXXXXXXXXX
+
+* Skroutz Last Mile\
+  https://www.skroutzlastmile.gr/#XXXXXXXXXXX

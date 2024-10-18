@@ -13,7 +13,8 @@
   https://elta.gr/en/track?code=XXXXXXXXXXX
 
 * ELTA Courier\
-  https://www.elta-courier.gr/search?br=XXXXXXXXXXXXX
+  https://www.elta-courier.gr/search?br=XXXXXXXXXXXXX \
+  https://www.elta-courier.gr/search?lang=en&br=XXXXXXXXXXXXX
 
 * Geniki Taxydromiki\
   https://www.taxydromiki.com/track/XXXXXXXXXX \
